@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaTechTask.Host", "QaTechTask.Host\QaTechTask.Host.csproj", "{0F0F8164-8297-4255-914D-D7376A67B105}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QaTask.Host", "QaTask.Host\QaTask.Host.csproj", "{833E0492-BF8E-4A6E-A257-32DB7432D11E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0F0F8164-8297-4255-914D-D7376A67B105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F0F8164-8297-4255-914D-D7376A67B105}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F0F8164-8297-4255-914D-D7376A67B105}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F0F8164-8297-4255-914D-D7376A67B105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833E0492-BF8E-4A6E-A257-32DB7432D11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833E0492-BF8E-4A6E-A257-32DB7432D11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833E0492-BF8E-4A6E-A257-32DB7432D11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833E0492-BF8E-4A6E-A257-32DB7432D11E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
