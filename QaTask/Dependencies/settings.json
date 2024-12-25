@@ -1,0 +1,35 @@
+﻿{
+  "TestSettings": {
+    "BaseUrl": "https://www.saucedemo.com/",
+    "RestApiUrl": "https://petstore.swagger.io/v2"
+  },
+  "ValidUserCredentials": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "InvalidUserCredentials": {
+    "username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "InvalidErrorMessage": {
+    "lockedusermessage": "Epic sadface: Sorry, this user has been locked out."
+  },
+  "LogoAssertion": {
+    "logotext": "Swag Labs"
+  },
+  "ValidPersonalInformation": {
+    "firstname": "Tester",
+    "lastname":  "Testington",
+    "postalcode": "223123"
+  },
+  "PersonalInformationErrorMessages": {
+    "firstnameError":"Error: First Name is required",
+    "lastnameError": "Error: Last Name is required",
+    "postalcodeError": "Error: Postal Code is required"
+  },
+  "ItemsNames": {
+    "Backpack": "Sauce Labs Backpack",
+    "FleeceJacket": "Sauce Labs Fleece Jacket",
+    "Tshirt": "Sauce Labs Bolt T-Shirt"
+  }
+}
